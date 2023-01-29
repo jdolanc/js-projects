@@ -1,1 +1,1 @@
-# scrimba-projects
+Javascript projects.
