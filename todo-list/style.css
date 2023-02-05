@@ -1,0 +1,18 @@
+button {
+  margin-left: 15px;
+  background-color: #334155;
+  border-radius: 5px;
+  color: #fafafa;
+}
+
+body {
+  background: skyblue;
+  width: max-content;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 35px; 
+}
+div.todo-list {
+  border: 1px solid black:
+}
